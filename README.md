@@ -4,4 +4,4 @@ The ShinyRFU() program is in file: ShinyRFU_0.2.0.tar.gz (latest version uploade
 Use v.0.2.0. Previous version v.0.1.1 has a bug that caused the program to crash when conditioning information is absent
 
 Tested with R4.2.2
-Make sure you load latest version of EUroformix 4.0.1
+Make sure you load latest version of Euroformix 4.0.1
